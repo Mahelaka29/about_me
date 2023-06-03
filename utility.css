@@ -1,0 +1,19 @@
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+h2{
+    color: #B99AC3;
+}
+.p-color{
+    color: rgb(91, 91, 91);
+}
+.remove-underline{
+    text-decoration: none;
+    color: #83B0D1;
+}
+hr{
+    color: rgb(91, 91, 91);
+}
