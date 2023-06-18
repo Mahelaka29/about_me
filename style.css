@@ -151,15 +151,16 @@ margin: 15px 0 ;
 
  /* Styles for small devices */
 @media only screen and (min-width: 360px) and (max-width: 599px) {
+
  .bg-image {
     background-image: url("./Mahelaka_mobile.png");
-}
+    }
 .flex .skills .cols {
-  width: 114%;
+  width: 100%;
 }
 }
 
-@media only screen and (min-width: 600px) and (max-width: 992px) {
+@media only screen and (max-width: 992px) {
 
   .about {
     width: 65%;
